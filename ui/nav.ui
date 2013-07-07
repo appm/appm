@@ -1,0 +1,11 @@
+<div id="nav" data-role="page">
+	<div data-role="header">
+		<h1>2 Depth Navigation</h1>
+	</div>
+	<div data-role="content">
+		<ul data-role="listview">
+			<li><a href="template.ui"> Back to the menu</a></li>
+		</ul>
+	</div>
+</div>
+
